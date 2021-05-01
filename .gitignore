@@ -94,6 +94,9 @@ dist
 # Serverless directories
 .serverless/
 
+#VSCODE
+.vscode
+
 # FuseBox cache
 .fusebox/
 
