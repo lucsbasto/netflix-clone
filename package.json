@@ -5,6 +5,9 @@
   "repository": "git@github.com:lucsbasto/netflix-clone.git",
   "author": "Lucas Bastos <lucsbasto@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "@types/jest": "^26.0.23",
     "@types/node": "^15.0.1",
