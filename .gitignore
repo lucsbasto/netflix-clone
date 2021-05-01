@@ -91,6 +91,9 @@ dist
 # vuepress build output
 .vuepress/dist
 
+# coverage
+coverage
+
 # Serverless directories
 .serverless/
 
